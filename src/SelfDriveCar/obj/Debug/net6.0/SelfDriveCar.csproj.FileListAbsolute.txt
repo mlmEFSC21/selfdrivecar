@@ -1,0 +1,15 @@
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\bin\Debug\net6.0\SelfDriveCar.exe
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\bin\Debug\net6.0\SelfDriveCar.deps.json
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\bin\Debug\net6.0\SelfDriveCar.runtimeconfig.json
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\bin\Debug\net6.0\SelfDriveCar.dll
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\bin\Debug\net6.0\SelfDriveCar.pdb
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\SelfDriveCar.csproj.AssemblyReference.cache
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\SelfDriveCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\SelfDriveCar.AssemblyInfoInputs.cache
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\SelfDriveCar.AssemblyInfo.cs
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\SelfDriveCar.csproj.CoreCompileInputs.cache
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\SelfDriveCar.dll
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\refint\SelfDriveCar.dll
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\SelfDriveCar.pdb
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\SelfDriveCar.genruntimeconfig.cache
+C:\Users\Matth\selfdrivecar\src\SelfDriveCar\obj\Debug\net6.0\ref\SelfDriveCar.dll
