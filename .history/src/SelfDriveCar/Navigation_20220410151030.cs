@@ -6,15 +6,13 @@ namespace SelfDriveCar
         {
             string path;
             if (route == "Work")
-            {
-                path = $"{rightTurn}, {stopSign}, {leftTurn}, {stopSign}, {rightTurn}, {stopSign}, {rightTurn}, {leftTurn}, {rightTurn}, {stopSign}, {leftTurn}, {redLight}, {rightTurn}, {redLight}, {leftTurn}, {redLight}, {rightTurn}, {leftTurn}, {parkCar}";
-                return path;
-            }
-            else
-            {
-                path = "Unknown route";
-                return path;
-            }
+        {
+            return path = $"{rightTurn}, {stopSign}, {leftTurn}, {stopSign}";
+        }
+        else
+        {
+            Console.WriteLine("Unknown route");
+        }
         }
         
         private string rightTurn = "Right turn"; 
