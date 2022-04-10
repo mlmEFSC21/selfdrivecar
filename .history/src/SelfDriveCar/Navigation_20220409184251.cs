@@ -1,0 +1,6 @@
+namespace SelfDriveCar
+{
+    class Navigation 
+    {
+    }
+}
