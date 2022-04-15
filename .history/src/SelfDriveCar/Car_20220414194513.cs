@@ -18,31 +18,23 @@ namespace SelfDriveCar
         public void stopEngine()
         {
             //self-explanatory
-            Console.WriteLine("Car engine stopped ");
+            Console.WriteLine("Car engine stopped");
         }
         public void leftTurn() {
             //self-explanatory
-            Console.WriteLine("Car left turn ");
+            Console.WriteLine("Car left turn");
         }
         public void rightTurn() {
             //self-explanatory
-            Console.WriteLine("Car right turn ");
+            Console.WriteLine("Car right turn");
         }
         public void forward() {
             //self-explanatory
-            Console.WriteLine("Car forward ");
+            Console.WriteLine("Car forward");
         }
-        public void reverse() {
+        public void stopSign() {
             //self-explanatory
-            Console.WriteLine("Car reverse ");
-        }
-        public void stop() {
-            //self-explanatory
-            Console.WriteLine("Car stop ");
-        }
-        public void parkCar() {
-            //self-explanatory
-            Console.WriteLine("Car parked ");
+            Console.WriteLine("Car stop (stop sign)");
         }
     }
 }

@@ -4,6 +4,7 @@ namespace SelfDriveCar
     {
         public void calcNavigation(string route)
         {
+            string path;
             if (route == "Work")
             {
                 var car1 = new Car();

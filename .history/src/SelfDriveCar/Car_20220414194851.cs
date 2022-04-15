@@ -40,9 +40,5 @@ namespace SelfDriveCar
             //self-explanatory
             Console.WriteLine("Car stop ");
         }
-        public void parkCar() {
-            //self-explanatory
-            Console.WriteLine("Car parked ");
-        }
     }
 }
