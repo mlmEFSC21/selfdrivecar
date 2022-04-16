@@ -4,25 +4,13 @@ namespace SelfDriveCar
     {
         public void startEngine()
         {
+            //self-explanatory
             Console.WriteLine("Car engine started");
         }
         public void stopEngine()
         {
+            //self-explanatory
             Console.WriteLine("Car engine stopped ");
-        }
-
-        public Boolean safetyCheckPassed(Boolean doorsCheck, Boolean seatBeltCheck, Boolean obstructionsCheck)
-        {
-            if (doorsCheck == true && seatBeltCheck == true && obstructionsCheck == true)
-            {
-                Console.WriteLine("Safety check passed");
-                return true;
-            }
-            else
-            {
-                Console.WriteLine("Safety check failed");
-                return false;
-            }
         }
 
         public void drive(string name)
@@ -33,21 +21,27 @@ namespace SelfDriveCar
         }
 
         public void leftTurn() {
+            //self-explanatory
             Console.WriteLine("Car left turn ");
         }
         public void rightTurn() {
+            //self-explanatory
             Console.WriteLine("Car right turn ");
         }
         public void forward() {
+            //self-explanatory
             Console.WriteLine("Car forward ");
         }
         public void reverse() {
+            //self-explanatory
             Console.WriteLine("Car reverse ");
         }
         public void stop() {
+            //self-explanatory
             Console.WriteLine("Car stop ");
         }
         public void parkCar() {
+            //self-explanatory
             Console.WriteLine("Car parked ");
         }
     }

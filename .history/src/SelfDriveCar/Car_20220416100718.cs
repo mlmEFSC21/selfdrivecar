@@ -11,7 +11,7 @@ namespace SelfDriveCar
             Console.WriteLine("Car engine stopped ");
         }
 
-        public Boolean safetyCheckPassed(Boolean doorsCheck, Boolean seatBeltCheck, Boolean obstructionsCheck)
+        public Boolean safetyCheckPassed(doorsCheck, seatBeltCheck, obstructionsCheck)
         {
             if (doorsCheck == true && seatBeltCheck == true && obstructionsCheck == true)
             {
